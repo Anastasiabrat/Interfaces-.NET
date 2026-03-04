@@ -1,0 +1,12 @@
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\obj\Debug\Biblioteca.FrmAlta.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\obj\Debug\Biblioteca.FrmPadre.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\Biblioteca\obj\Debug\Biblioteca.FrmConsulta.resources

@@ -1,0 +1,14 @@
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\obj\Debug\Biblioteca2022.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\obj\Debug\Biblioteca2022.Properties.Resources.resources
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\obj\Debug\Biblioteca2022.csproj.GenerateResource.cache
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\obj\Debug\Biblioteca2022.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\bin\Debug\Biblioteca2022.exe.config
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\bin\Debug\Biblioteca2022.exe
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\bin\Debug\Biblioteca2022.pdb
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\obj\Debug\Biblioteca2022.exe
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\obj\Debug\Biblioteca2022.pdb
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\obj\Debug\Biblioteca2022.FormBorrado.resources
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\obj\Debug\Biblioteca2022.FormPrincipal.resources
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\obj\Debug\Biblioteca2022.FormAlta.resources
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\obj\Debug\Biblioteca2022.FormListado.resources
+C:\Users\vasil\Desktop\2\Interfaces\Biblioteca2022\obj\Debug\Biblioteca2022.FormModificacion.resources

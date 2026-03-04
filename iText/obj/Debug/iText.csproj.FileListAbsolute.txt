@@ -1,0 +1,15 @@
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\bin\Debug\iText.exe.config
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\bin\Debug\iText.exe
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\bin\Debug\iText.pdb
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\bin\Debug\itextsharp.dll
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\bin\Debug\itextsharp.xml
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\obj\Debug\iText.csproj.AssemblyReference.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\obj\Debug\iText.Form1.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\obj\Debug\iText.Properties.Resources.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\obj\Debug\iText.csproj.GenerateResource.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\obj\Debug\iText.csproj.CoreCompileInputs.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\obj\Debug\iText.csproj.CopyComplete
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\obj\Debug\iText.exe
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\Interfaces\2doTrimestre\iText\obj\Debug\iText.pdb

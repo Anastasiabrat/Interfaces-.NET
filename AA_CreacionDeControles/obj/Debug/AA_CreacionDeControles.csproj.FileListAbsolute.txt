@@ -1,0 +1,10 @@
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_CreacionDeControles\bin\Debug\AA_CreacionDeControles.exe.config
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_CreacionDeControles\bin\Debug\AA_CreacionDeControles.exe
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_CreacionDeControles\bin\Debug\AA_CreacionDeControles.pdb
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_CreacionDeControles\obj\Debug\AA_CreacionDeControles.csproj.AssemblyReference.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_CreacionDeControles\obj\Debug\AA_CreacionDeControles.Form1.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_CreacionDeControles\obj\Debug\AA_CreacionDeControles.Properties.Resources.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_CreacionDeControles\obj\Debug\AA_CreacionDeControles.csproj.GenerateResource.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_CreacionDeControles\obj\Debug\AA_CreacionDeControles.csproj.CoreCompileInputs.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_CreacionDeControles\obj\Debug\AA_CreacionDeControles.exe
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_CreacionDeControles\obj\Debug\AA_CreacionDeControles.pdb

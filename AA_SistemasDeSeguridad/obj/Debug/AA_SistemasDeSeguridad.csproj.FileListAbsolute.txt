@@ -1,0 +1,14 @@
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\bin\Debug\AA_SistemasDeSeguridad.exe.config
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\bin\Debug\AA_SistemasDeSeguridad.exe
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\bin\Debug\AA_SistemasDeSeguridad.pdb
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\obj\Debug\AA_SistemasDeSeguridad.csproj.AssemblyReference.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\obj\Debug\AA_SistemasDeSeguridad.Form1.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\obj\Debug\AA_SistemasDeSeguridad.FormClientes.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\obj\Debug\AA_SistemasDeSeguridad.Properties.Resources.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\obj\Debug\AA_SistemasDeSeguridad.csproj.GenerateResource.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\obj\Debug\AA_SistemasDeSeguridad.csproj.CoreCompileInputs.cache
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\obj\Debug\AA_SistemasDeSeguridad.exe
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\obj\Debug\AA_SistemasDeSeguridad.pdb
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\obj\Debug\AA_SistemasDeSeguridad.FormSistemas.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\obj\Debug\AA_SistemasDeSeguridad.FormSensores.resources
+C:\Users\34691\OneDrive\Documents\AnastasiaCopiaSSD\BratkivBratkivAnastasia\2DAM\JUNIO\Interfaces\AA_SistemasDeSeguridad\obj\Debug\AA_SistemasDeSeguridad.FormServicios.resources
